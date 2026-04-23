@@ -1,0 +1,65 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+bin/
+lib/
+include/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.buildpath
+.project
+.settings/
+.spyderproject
+.pydevproject
+.env
+.venv
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+ios/GeneratedPluginRegistrant.h
+ios/GeneratedPluginRegistrant.m
+android/local.properties
+android/key.properties
+android/app/src/main/res/values/strings.xml
+android/.gradle/
+*.lcov
+*.pubignore
+
+# Arduino
+build/
+bin/
+*.elf
+*.hex
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
