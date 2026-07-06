@@ -335,12 +335,18 @@ Astra_Smart_Bin/
 
 ---
 
-## 👤 Author
+## 👥 Team
 
-**Aye Nyein San**
+**Team Astra** — Built during the **TechnoFusion Hackathon**
 
-- GitHub: [@AyeNyeinSan22](https://github.com/AyeNyeinSan22)
-- Email: ayenyeinsan284@gmail.com
+| Name | Role |
+|------|------|
+| Aye Nyein San | Backend Developer |
+| | |
+| | |
+| | |
+
+> *Contributions: Python backend bridge, Flask REST API, Arduino serial communication, TFLite vision pipeline integration*
 
 ---
 
